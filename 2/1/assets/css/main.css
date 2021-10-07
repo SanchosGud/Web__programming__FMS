@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+main{
+	margin: 40px 0px;
+}
+.container{
+	width: 1080px;
+	margin: 0 auto;
+}
+
+.navbar{
+	height: 60px;
+	background-color: #14319c;
+}
+/*Стили для основного блока*/
+.adv-block{
+	height: 100px;
+	margin: 20px 0px;
+	background-color: #287328;
+}
+.content{
+	display: flex;
+	justify-content: space-between;
+	height: 400px;
+}
+.text{
+	width: 38%;
+	background-color: #e45806;
+}
+.desc{
+	width: 58%;
+	background-color: #17da9b;
+}
+.feedback{
+	height: 70px;
+	background-color: green;
+}

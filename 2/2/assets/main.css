@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	font-size: 50px;
+}
+
+.header{
+	display: block;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 50;
+	height: 60px;
+	width: 100%;
+	background-color: #47d444;
+}
+
+.content{
+	width: 1080px;
+	margin: 70px auto;
+}
+
+.test__block{
+	display: block;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	margin: 20px;
+	height: 250px;
+	width: 150px;
+	background-color: #278625;
+	border-radius: 15px;
+}
