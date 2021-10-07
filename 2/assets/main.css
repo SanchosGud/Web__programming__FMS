@@ -1,0 +1,11 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*Styles for block*/
+.test-block{
+	display: block;
+	height: 60px;
+	background-color: #ff7d20e0;
+}
